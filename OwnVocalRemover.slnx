@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Example.HTDemucs/Example.HTDemucs.csproj" />
+  <Project Path="Example.Multimodel/Example.Multimodel.csproj" />
+  <Project Path="Example.Simplified/Example.Simplified.csproj" />
+  <Project Path="OwnVocalRemover/OwnVocalRemover.csproj" />
+</Solution>
